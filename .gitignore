@@ -1,3 +1,4 @@
-*testNode.js
+testNode.js
 *.json
-
+/.vscode
+.gitignore
